@@ -5,5 +5,6 @@
 - GPA 2.4
 - Interesting in Embedded System & Web Development
 - Trainee At Amit Learning Company (Embedded System Diploma)
+- Studying BootCamp Backend Development at Xware Company
 - linkedin  https://www.linkedin.com/in/peter-essam-47a670201
 
